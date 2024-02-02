@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "shiva",
+    "employee_code": 1,
+    "salary": 8000
+  },
+  {
+    "id": 2,
+    "name": "krishna",
+    "employee_code": 2,
+    "salary": 92000
+  },
+  {
+    "id": 5,
+    "name": "sangati",
+    "employee_code": 5,
+    "salary": 98249
+  },
+  {
+    "id": 6,
+    "name": "shankar",
+    "employee_code": 4,
+    "salary": 879
+  },
+  {
+    "id": 7,
+    "name": "reddy",
+    "employee_code": 3,
+    "salary": 453543
+  },
+  {
+    "id": 8,
+    "name": "krishna",
+    "employee_code": 2,
+    "salary": 92000
+  },
+  {
+    "id": 9,
+    "name": "shiva",
+    "employee_code": 1,
+    "salary": 8000
+  },
+  {
+    "id": 10,
+    "name": "sql data base",
+    "employee_code": 25,
+    "salary": 1000000
+  },
+  {
+    "id": 19,
+    "name": "try-data",
+    "employee_code": 56,
+    "salary": 2423
+  },
+  {
+    "id": 20,
+    "name": "nw data",
+    "employee_code": null,
+    "salary": null
+  },
+  {
+    "id": 25,
+    "name": "Praveen",
+    "employee_code": 1024,
+    "salary": 10000
+  },
+  {
+    "id": 26,
+    "name": "Praveen",
+    "employee_code": 1024,
+    "salary": 10000
+  },
+  {
+    "id": 27,
+    "name": "Pravseen",
+    "employee_code": 15024,
+    "salary": 100020
+  },
+  {
+    "id": 28,
+    "name": "might",
+    "employee_code": null,
+    "salary": null
+  },
+  {
+    "id": 29,
+    "name": "hey",
+    "employee_code": null,
+    "salary": null
+  },
+  {
+    "id": 30,
+    "name": "later",
+    "employee_code": null,
+    "salary": null
+  },
+  {
+    "id": 31,
+    "name": "",
+    "employee_code": null,
+    "salary": null
+  },
+  {
+    "id": 32,
+    "name": "bilva",
+    "employee_code": null,
+    "salary": null
+  }
+]

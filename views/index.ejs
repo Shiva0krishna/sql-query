@@ -1,0 +1,40 @@
+<!-- index.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Data</title>
+</head>
+<body>
+
+    <h1>Employee Data</h1>
+    <div>
+        <form action="/" method="post">
+            <input type="text" placeholder="Enter name..." name="name">
+            <button type="submit">ENter</button>
+        </form>
+    </div>
+    
+
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Employee Code</th>
+            <th>Salary</th>
+        </tr>
+        <% title.forEach(employee => { %>
+            <tr>
+                <td><%= employee.id %></td>
+                <td><%= employee.name %></td>
+                <td><%= employee.employee_code %></td>
+                <td><%= employee.salary %></td>
+            </tr>
+        <% }); %>
+    </table>
+    <a href="/login">Login</a>
+
+</body>
+</html>
